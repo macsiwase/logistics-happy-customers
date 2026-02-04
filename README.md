@@ -1,4 +1,4 @@
-<img src="img/logistics-ai.png" width="\textwidth" />
+<img src="img/logistics-ai.png" width="400">
 
 # Predicting Customer Happiness for a Logistics Startup
 
