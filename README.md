@@ -1,4 +1,7 @@
-<img src="img/logistics-ai.png" width="400">
+<p align="center">
+  <img src="img/logistics-ai.png" width="400">
+</p>
+
 
 # Predicting Customer Happiness for a Logistics Startup
 
