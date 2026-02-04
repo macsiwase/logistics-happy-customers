@@ -26,7 +26,7 @@ The company surveyed customers with 6 questions about their experience:
 
 [View the Jupyter Notebook here](https://colab.research.google.com/github/macsiwase/logistics-happy-customers/blob/main/happiness.ipynb)
 
-[Find the CSV data here](https://drive.google.com/drive/folders/15LnJnMXSOC44wJMmSQXzHcMF-GuoGqRs)
+[Find the CSV data here](https://drive.google.com/file/d/1WxZWo12vV_uCd5P4jGjy1697iMWWEjs1/view?usp=sharing)
 
 ## Results
 
