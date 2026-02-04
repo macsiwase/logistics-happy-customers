@@ -25,6 +25,7 @@ The company surveyed customers with 6 questions about their experience:
 **Goal**: Predict whether a customer is happy or unhappy based on their answers.
 
 [View the Jupyter Notebook here](https://colab.research.google.com/github/macsiwase/logistics-happy-customers/blob/main/happiness.ipynb)
+
 [Find the CSV data here](https://drive.google.com/drive/folders/15LnJnMXSOC44wJMmSQXzHcMF-GuoGqRs)
 
 ## Results
